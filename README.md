@@ -1,6 +1,6 @@
 # keras-tutorial-osdc2020
 
-Colab Notebooks for my Keras Tutorial [Keras from Soup to Nuts](https://odsc.com/speakers/keras-from-soup-to-nuts-an-example-driven-tutorial/) presented at [OSDC West 2020](https://odsc.com/california/).
+Colab Notebooks for my Keras Tutorial [Keras from Soup to Nuts](https://odsc.com/speakers/keras-from-soup-to-nuts-an-example-driven-tutorial/) presented at [ODSC West 2020](https://odsc.com/california/).
 
 ## Motivation
 
