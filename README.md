@@ -45,10 +45,17 @@ __Part III:__ Take your Keras skills to the next level by learning how to take a
    * Useful Tensorflow features
      * Tensorflow tf.data.Datasets
      * Customized training loops (tf.GradientTape)
-     * Distributed training
+     * Distributed trainingu
 
 ## Pre-requisites
 
-Ability to program in Python. Some knowledge of Machine Learning and/or Deep Learning desired but not required.
+Ability to program in Python. Some knowledge of Machine Learning and/or Deep Learning desired but not required.o
 
+## Running the Notebooks
+
+All the notebooks are runnable and have no external dependencies. You can use these notebooks one of three ways.
+
+* Read them -- github can render Jupyter notebooks, so clicking on them should (in most cases, barring issues with github rendering) open the notebook in the browser. All notebooks have been saved with results, so you can see the results in the cell outputs.
+* Run them using the [Run on Colab] button -- each notebook has this button, clicking it will open the notebook as a Colab notebook in your own Colab account.
+* Download them and run them on Colab -- you can also clone the entire repository, and upload the notebooks to your Colab account and run them there. To do this, you will have to run `git clone git@github.com:sujitpal/keras-tutorial-odsc2020.git` (or equivalent GUI action) or download the repository as a zip file using the Github Desktop tool. You can then upload the notebooks individually to Colab and run them.
 
